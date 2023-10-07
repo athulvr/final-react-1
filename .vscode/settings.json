@@ -1,0 +1,5 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/2039ea20-b764-476c-89fa-c4112bbfbd6d/resourceGroups/trial/providers/Microsoft.Web/sites/login-react",
+  "appService.deploySubpath": ".",
+  "appService.zipIgnorePattern": ["node_modules{,/**}", ".vscode{,/**}"]
+}
